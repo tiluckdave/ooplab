@@ -1,0 +1,1 @@
+Hello this is tilk rajendra dave and I am doing the word count practical in the oop lab exam and I am really really glad that I have got this problem. so currently this file has got 38 words.
